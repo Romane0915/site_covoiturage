@@ -47,7 +47,7 @@ La base de données devra stocker les informations liées aux utilisateurs, aux 
 
 ## Objectif final
 
-L’objectif final du projet est de créer une plateforme interne simple et fonctionnelle permettant aux employés d’organiser facilement leurs trajets de covoiturage au quotidien. Le site devra être rapide, clair et accessible afin de favoriser son utilisation régulière au sein de l’entreprise.<
+L’objectif final du projet est de créer une plateforme interne simple et fonctionnelle permettant aux employés d’organiser facilement leurs trajets de covoiturage au quotidien. Le site devra être rapide, clair et accessible afin de favoriser son utilisation régulière au sein de l’entreprise.
 
 ## précision:
 
